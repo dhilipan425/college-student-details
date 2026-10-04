@@ -486,3 +486,14 @@ footer {
         grid-column: auto;
     }
 }
+.creator-credit {
+    position: fixed;
+    right: 18px;
+    bottom: 12px;
+    font-size: 13px;
+    color: #666;
+    background: rgba(255, 255, 255, 0.92);
+    padding: 6px 10px;
+    border-radius: 6px;
+    z-index: 1000;
+}

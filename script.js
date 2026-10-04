@@ -1065,3 +1065,6 @@ const root =
     );
 
 root.render(<App />);
+<div className="creator-credit">
+    Created and published by A. Dhilipan
+</div>
